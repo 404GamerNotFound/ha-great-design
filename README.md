@@ -1,5 +1,10 @@
 # Home Assistant Heating Control Card
 
+[![Stars](https://img.shields.io/github/stars/404GamerNotFound/ha-heat-design?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/404GamerNotFound/ha-heat-design/stargazers)
+[![Sponsors](https://img.shields.io/github/sponsors/404GamerNotFound?style=for-the-badge&logo=github&logoColor=white&label=Sponsors&color=blue)](https://github.com/sponsors/404GamerNotFound)
+[![PayPal](https://img.shields.io/badge/PayPal-ME-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TonyBrueser)
+[![Revolut](https://img.shields.io/badge/Revolut-ME-blue?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/tony1995)
+
 A custom **Lovelace dashboard card bundle** for Home Assistant.
 
 This repository now contains:
